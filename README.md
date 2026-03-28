@@ -1,4 +1,4 @@
-# 🎓 Student CGPA Calculator Pro (Vercel Ready)
+# 🎓 Student CGPA Calculator 
 
 A premium, modern, and feature-rich CGPA calculator designed for students. This project is **fully optimized for Vercel deployment** with a high-end Web UI and a robust Python Command Line Interface.
 
@@ -73,4 +73,4 @@ It demonstrates skills in:
 
 ---
 
-Developed with ❤️ for Student Excellence.
+Developed with Amrita Chakrabartty
